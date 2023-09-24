@@ -1,3 +1,3 @@
+id_rsa.pub
 /ansible/roles/*.yml
-!redis.yml
-!zabbix-agent.yml
+!add_user.yml
