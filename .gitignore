@@ -1,0 +1,3 @@
+id_rsa.pub
+/ansible/roles/*.yml
+!add_user.yml
