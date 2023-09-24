@@ -1,0 +1,3 @@
+/ansible/roles/*.yml
+!redis.yml
+!zabbix-agent.yml
